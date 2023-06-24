@@ -1,0 +1,6 @@
+# exclude all files in data except .gitkeep
+data/*
+!data/.gitkeep
+
+# misc
+.DS_Store
